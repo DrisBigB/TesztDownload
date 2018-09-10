@@ -10,7 +10,6 @@
 		783C61780E362239DBD4B159 /* Pods_TesztDownload.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 255B5E9ED078638683E3ED97 /* Pods_TesztDownload.framework */; };
 		D505FC6F2145266B001D7F91 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D505FC6E2145266B001D7F91 /* NetworkService.swift */; };
 		D505FC762145456A001D7F91 /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D505FC752145456A001D7F91 /* Main.swift */; };
-		D544DA2E2146C65500EE5012 /* PptVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D544DA2D2146C65500EE5012 /* PptVC.swift */; };
 		D58C318621444ED0005311B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D58C318521444ED0005311B0 /* AppDelegate.swift */; };
 		D58C318821444ED0005311B0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D58C318721444ED0005311B0 /* ViewController.swift */; };
 		D58C318B21444ED0005311B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D58C318921444ED0005311B0 /* Main.storyboard */; };
@@ -25,7 +24,6 @@
 		D505FC6E2145266B001D7F91 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 		D505FC7021453B78001D7F91 /* TesztDownload.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TesztDownload.entitlements; sourceTree = "<group>"; };
 		D505FC752145456A001D7F91 /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
-		D544DA2D2146C65500EE5012 /* PptVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PptVC.swift; sourceTree = "<group>"; };
 		D58C318221444ED0005311B0 /* TesztDownload.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TesztDownload.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D58C318521444ED0005311B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D58C318721444ED0005311B0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -84,7 +82,6 @@
 				D58C318721444ED0005311B0 /* ViewController.swift */,
 				D505FC6E2145266B001D7F91 /* NetworkService.swift */,
 				D58C318921444ED0005311B0 /* Main.storyboard */,
-				D544DA2D2146C65500EE5012 /* PptVC.swift */,
 				D505FC752145456A001D7F91 /* Main.swift */,
 				D58C318F21444ED1005311B0 /* Assets.xcassets */,
 				D58C319121444ED1005311B0 /* LaunchScreen.storyboard */,
@@ -224,7 +221,6 @@
 				D505FC762145456A001D7F91 /* Main.swift in Sources */,
 				D58C318821444ED0005311B0 /* ViewController.swift in Sources */,
 				D58C318621444ED0005311B0 /* AppDelegate.swift in Sources */,
-				D544DA2E2146C65500EE5012 /* PptVC.swift in Sources */,
 				D505FC6F2145266B001D7F91 /* NetworkService.swift in Sources */,
 				D58C318E21444ED0005311B0 /* TesztDownload.xcdatamodeld in Sources */,
 			);
